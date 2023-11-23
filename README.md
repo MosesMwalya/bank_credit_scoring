@@ -12,7 +12,7 @@ Our model reveals that the minimum credit score that would deliver optimal retur
 Our primary goal is to develop a model that accurately predicts a borrower's credit score. By improving forecast accuracy, we aim to reduce losses through default, thereby enhancing the profitability of the investor as well as borrower's experience.
 
 ## Data Source
-All data for this project was obtained from []. 
+All data for this project was obtained from [Kaggle](https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring/bank.csv). 
 
 ## Methodology
 We took the following steps:
