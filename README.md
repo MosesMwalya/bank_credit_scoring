@@ -8,7 +8,7 @@ That notwithstanding, there exists a real risk of some borrowers failing to pay 
 Leveraging the power of Machine learning, the availability of data, and experienced staff, the project was able to deliver its goals. In our initial effort, our Logistic Regression model achieved accuracy score of 0.84, reflecting a promising start of this project. We then embarked on model optimization, delivering a slight model accuracy score of 0.88.
 Our model reveals that the minimum credit score that would deliver optimal return is 537/1000
 
-## Key Objectives (https://github.com/MosesMwalya/bank_credit_scoring/blob/main/images/objective.jpeg)
+## ![Key Objectives](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/images/objective.jpeg)
 Our primary goal is to develop a model that accurately predicts a borrower's credit score. By improving forecast accuracy, we aim to reduce losses through default, thereby enhancing the profitability of the investor as well as borrower's experience.
 
 ## Data Source
