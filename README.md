@@ -1,6 +1,6 @@
 # Microfinance Credit Scoring tool
 
-
+(https://github.com/MosesMwalya/bank_credit_scoring/blob/main/images/credit_score.jpg)
 
 ## Introduction
 There has been a rapid growth of fintech in the past, with the majority of them playing in the credit space. This has provided benefits to the ecosystem in two ways, first, the borrowers have easy access to funds to enable them to actualize their dreams. Secondly, the investors have been extended an opportunity to invest their money for a small return in the society in which they live.
