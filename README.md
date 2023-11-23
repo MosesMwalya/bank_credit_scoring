@@ -27,14 +27,17 @@ We took the following steps:
 Our model was primarily Logistic Regression which was later optimized to give a higher evaluation score. This model was preferred because it is a powerful binary algorithm that also gives probabilities as an output.
 
 ## Training and Evaluation
-- **Penalty:** We used
-- **Inverse of regularization strength:**
-- **Solver:**
+- **Penalty:** We used L2
+- **Inverse of regularization strength:** We used 1.0
+- **Solver:** = lbfgs
+- **RepeatedStratifiedKFold** to resolve for data imbalance
 
 ## Conclusion
 - Our approach resulted in accurate prediction of Credit Score (ranging from 0 to 1000)
 - We determined that the minimum credit score to qualify for a credit is 566 (Higher is better)
-- This project has the potential to reduce non-performing credit significantly as well as open the facility to other borrowers who would otherwise be left out 
+- This project has the potential to reduce non-performing credit significantly as well as open the facility to other borrowers who would otherwise be left out
+
+  ![Alt text](images/image.png)
 
 ## Future work
 Future work may include:
