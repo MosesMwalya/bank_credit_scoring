@@ -49,3 +49,22 @@ Future work may include:
 I would like to express my gratitude to Kaggle and those who provided this dataset.
 
 Additionally, thank you for visiting my project repository, I am excited to share more data-driven insights in future!
+
+
+## Contributions
+Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in [CONTRIBUTIONS](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/CONTRIBUTIONS.md) Any improvements, bug fixes, or additional projects are greatly appreciated.
+
+## LICENSE
+This project is licensed under the [MIT License](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/LICENSE.md). You are free to use the code and resources for educational or personal purposes.
+
+## Feedback and Contact
+I welcome any feedback, suggestions, or questions you may have about the projects or the repository. Feel free to reach out to me via [email](moses.mutua@gmail.com)
+
+Enjoy exploring my data science projects!
+
+
+
+
+
+
+
