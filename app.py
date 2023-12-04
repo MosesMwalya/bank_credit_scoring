@@ -8,12 +8,12 @@ Created on Sun Dec 03 16:44:38 2023
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib
+import pickle
 
 # load scaler
-scaler = joblib.load('scaling_model')
+scaler = pickle.load(open('scaler.pkl', 'rb'))
 # load the saved model
-model = joblib.load('scoring_model')
+model = pickle.load(open('model.pkl', 'rb'))
 
 
 st.title('Customer Credit Score')
@@ -36,9 +36,8 @@ month = st.slider('month', 0, 11, 1)
 duration = st.slider('Enter duration', 4.0, 667.0, 1.0)
 campaign = st.select_slider('Select campaign', [0,1,2,3,4,5,6])
 
-#constants
-pdays = -1
-previous = 0
+pdays = st.slider('Enter pdays', -1, 900, 1)
+previous = st.slider('Enter previous', 0, 25, 1)
 
     
     
