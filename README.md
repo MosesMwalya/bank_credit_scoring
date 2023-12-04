@@ -38,7 +38,11 @@ Our model was primarily Logistic Regression which was later optimized to give a 
 - This project has the potential to reduce non-performing credit significantly as well as open the facility to other borrowers who would otherwise be left out
 
   ![Alt text](images/image.png)
+## The Deployed scoring App
+The developed model was then deployed in a web app format as shown below
+![Alt text](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/images/credit_score_model.jpg)
 
+and can be accessed in a link 
 ## Future work
 Future work may include:
 - Perform further model optimization to improve accuracy.
