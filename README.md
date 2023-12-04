@@ -39,7 +39,8 @@ Our model was primarily Logistic Regression which was later optimized to give a 
 
   ![Alt text](images/image.png)
 ## The Deployed scoring App
-The developed model was then deployed in a web app format as shown below
+The developed model was then deployed in a web application and link is accessible [here](https://creditscoringmodel.streamlit.app/) 
+displayed as shown below
 ![Alt text](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/images/credit_score_model.jpg)
 
 and can be accessed in a link 
